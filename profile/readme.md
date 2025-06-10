@@ -9,7 +9,7 @@ We are developing a reliable, high-quality and effective open-source VPN for all
 ### Our projects:
 | Project | Description | Development status |
 |--------|----------|-------------------|
-| [SurfCloak-VPN-core]() | The core of the project, its main functionality and implementation | 🔸 In development... |
+| [SurfCloak-VPN-core](https://github.com/SurfCloak-VPN/SurfCloak-core) | The core of the project, its main functionality and implementation | 🔸 In development... |
 | [SurfCloak-VPN-API]() | User API| 🔹 Implementation is planned after the development of SurfCloak-VPN-core |
 | [SurfCloak-VPN-Bot]() | User Telegram bot | 🔹 Implementation is planned after the development of SurfCloak-VPN-core |
 
@@ -22,6 +22,6 @@ We are developing a reliable, high-quality and effective open-source VPN for all
 ### Наши проекты:
 | Проект | Описание | Статус разработки |
 |--------|----------|-------------------|
-| [SurfCloak-VPN-core]() | Ядро проекта, его основной функционал и реализация | 🔸 В разработке... |
+| [SurfCloak-VPN-core](https://github.com/SurfCloak-VPN/SurfCloak-core) | Ядро проекта, его основной функционал и реализация | 🔸 В разработке... |
 | [SurfCloak-VPN-API]() | Пользовательский API| 🔹 Реализация планируется после разработки SurfCloak-VPN-core |
 | [SurfCloak-VPN-Bot]() | Польовательский Телеграм-бот | 🔹 Реализация планируется после разработки SurfCloak-VPN-core |
